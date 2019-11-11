@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-11T19:02:06Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Ece 473 Lab 4 Pre-Amp"
+        },
+        "Owner": "Jordan Baxter <baxterjo@oregonstate.edu>",
+        "Size": {
+            "X": 53.34,
+            "Y": 45.72
+        }
+    }
+}
